@@ -1,0 +1,47 @@
+# Build directories
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+*.qrc_cpp
+*.o
+*.a
+*.so
+*.dylib
+*.lib
+*.dll
+*.exe
+
+# IDE files
+.vscode/
+.vs/
+.idea/
+*.user
+*.sln
+*.vcxproj*
+*.pro.user*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Dependencies
+bin/
+lib/
+include/
+
+# Qt specific
+.qmake.stash
+qt_cache.jom
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
